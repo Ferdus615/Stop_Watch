@@ -70,7 +70,7 @@ h1 {
 
   padding: 5px 10px;
   cursor: pointer;
-  transition: color 0.25s ease;
+  transition: font-size 0.25s ease;
 }
 .resetBtn:hover,
 .pauseBtn:hover,
@@ -84,7 +84,7 @@ h1 {
 }
 
 @font-face {
-  font-family: "Array-Wide";
+  font-family: Array-Wide;
   src: url("../fonts/Array-Wide.woff2") format("woff2"),
     url("../fonts/Array-Wide.woff") format("woff"),
     url("../fonts/Array-Wide.ttf") format("truetype");
