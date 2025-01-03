@@ -85,9 +85,9 @@ h1 {
 
 @font-face {
   font-family: Array-Wide;
-  src: url("../fonts/Array-Wide.woff2") format("woff2"),
-    url("../fonts/Array-Wide.woff") format("woff"),
-    url("../fonts/Array-Wide.ttf") format("truetype");
+  src: url("fonts/Array-Wide.woff2") format("woff2"),
+    url("fonts/Array-Wide.woff") format("woff"),
+    url("fonts/Array-Wide.ttf") format("truetype");
   font-weight: 400;
   font-display: swap;
   font-style: normal;
